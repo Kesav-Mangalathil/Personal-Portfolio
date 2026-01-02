@@ -1,18 +1,25 @@
-## Getting Started
+Personal Portfolio Website
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a responsive personal portfolio website built using HTML and CSS. The project showcases my profile, skills, projects, and contact information in a clean and structured layout. It is designed to provide a clear overview of my background and technical abilities while following modern web design principles.
 
-## Folder Structure
+The website focuses on semantic HTML, CSS styling, and layout techniques such as Flexbox to ensure proper alignment and responsiveness across different screen sizes. This project helped me strengthen my understanding of front-end fundamentals, page structure, and visual design.
 
-The workspace contains two folders by default, where:
+🔧 Technologies Used
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+HTML5
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+CSS3
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+✨ Features
 
-## Dependency Management
+Clean and minimal UI
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Responsive layout
+
+Organized sections (About, Skills, Projects, Contact)
+
+External CSS for better maintainability
+
+🎯 Purpose
+
+This portfolio serves as a personal project to practice front-end development skills and act as a digital resume that can be hosted on GitHub Pages.
